@@ -29,7 +29,7 @@ The existing Pages workflow uploads the repository and deploys on pushes to `mai
 
 ## Content updates
 
-Keep resume, LinkedIn and portfolio details consistent. Replace the resume at its existing path when it changes. Project cards currently preserve the three original Streamlit destinations; availability has not been verified. Add exact project repository URLs only after confirming them. Do not add model metrics without a reproducible evaluation and dataset description.
+Keep resume, LinkedIn and portfolio details consistent. Replace the resume at its existing path when it changes. The portfolio includes six additional repository-linked projects (AI Quality Lab, AI Meeting Assistant, ChoreoMate, Medical Imaging Platform, Subtitle Translator and EmpowerCraft), followed by the three original Streamlit applications. New descriptions are based on their current repository READMEs and, for EmpowerCraft, its Flask application. Source links do not imply a hosted demo or a successful runtime check. The three original Streamlit destinations are preserved; availability has not been verified. Add exact project repository URLs only after confirming them. Do not add model metrics without a reproducible evaluation and dataset description.
 
 ## Accessibility and behavior
 
