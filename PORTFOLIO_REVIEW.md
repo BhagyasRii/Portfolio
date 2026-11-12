@@ -19,7 +19,7 @@ Scope: the main branch at 5b16a1fdda2cfd010af2919ff49ddd9ba74c100d, including in
 1. For Heart Disease Prediction: dataset source and license, target definition, train/test method, class balance, model comparison, precision/recall or ROC-AUC, leakage checks and intended limitations. Never frame the demo as clinical validation.
 2. For Image Compression: an original/result comparison with palette size, image dimensions, measured file-size change and visual tradeoffs. Explain that color reduction does not guarantee a smaller encoded file.
 3. For Learning Roadmap Generator: actual model/provider, inputs and outputs, prompt design, failure handling and a sample roadmap. Do not infer these from the project name.
-4. Six additional repository-linked projects have now been added: AI Quality Lab, AI Meeting Assistant, ChoreoMate, Medical Imaging Platform, Subtitle Translator and EmpowerCraft. Add real screenshots and individual-contribution details for them next. Descriptions are grounded in repository READMEs; EmpowerCraft was checked against its Flask code. Runtime behavior and deployment were not verified.
+4. Four additional repository-linked projects are included: AI Quality Lab, AI Meeting Assistant, Medical Imaging Platform and Subtitle Translator. Add real screenshots and individual-contribution details next. Descriptions are grounded in repository READMEs. Runtime behavior and deployment were not verified.
 5. Check the resume PDF against current graduation, contact details, project links and role focus. Its existence is confirmed; its contents have not been reviewed.
 6. Verify the three demo destinations and Pages URL. A link in HTML proves a configured destination, not uptime.
 
@@ -31,4 +31,8 @@ No fabricated performance metrics, employment history, new project repositories 
 
 ## Additional project update
 
-Six new cards precede the original three applications, with exact public repository links and documented stacks. AI Quality Lab leads the selection. No screenshots, deployment URLs or performance results were invented. ChoreoMate is presented as the general AI dance tutor described by its README, not relabeled as the separate Bharatanatyam final-year system. Medical imaging is identified as a development demonstration. Source descriptions were inspected on 12 November 2026.
+Four new project cards precede the original three applications, with exact public repository links and documented stacks. AI Quality Lab leads the selection. Medical imaging is identified as a development demonstration. Source descriptions were inspected on 12 November 2026.
+
+## Learning achievement update
+
+ChoreoMate and EmpowerCraft have been removed from the portfolio at the owner's request. LLM from Scratch is included under Learning & Milestones as a hands-on learning exercise covering language-model fundamentals, with a link to the existing LLM_Scratch repository. It is not counted as a finished application or presented as a production model.
